@@ -48,7 +48,7 @@ input[type="checkbox"] + label {
   line-height: 30vmin;
   display: inline-block;
   position: absolute;
-  font-size: 30vmin;
+  font-size: 80px;
   text-align: center;
   transition: all 1s ease;
 }
@@ -95,7 +95,7 @@ label {
 }
 
 #ck3 + label {
-  bottom: 5vmin; left: 0%;
+  bottom: 5vmin; left: 50%;
   margin: 0 -9vmin;
   background-color: white;
 }
@@ -112,7 +112,7 @@ span {
   text-align: left;
   position: absolute;
   bottom: 0vmin; left: 0vmin;
-  margin-bottom: -3vmin;
+  margin-bottom: -10vmin;
   font-size: 6vmin;
   color: #999;
 }
